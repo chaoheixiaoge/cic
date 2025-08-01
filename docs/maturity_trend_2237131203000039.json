@@ -1,0 +1,527 @@
+[
+  {
+    "date": "2025-05-01",
+    "maturity_premium": 0.14,
+    "settled_claim": 0.0,
+    "unsettled_claim": 0.0,
+    "cumulative_loss_ratio": 0.0
+  },
+  {
+    "date": "2025-05-02",
+    "maturity_premium": 0.27,
+    "settled_claim": 0.0,
+    "unsettled_claim": 0.0,
+    "cumulative_loss_ratio": 0.0
+  },
+  {
+    "date": "2025-05-03",
+    "maturity_premium": 0.32,
+    "settled_claim": 0.0,
+    "unsettled_claim": 0.0,
+    "cumulative_loss_ratio": 0.0
+  },
+  {
+    "date": "2025-05-04",
+    "maturity_premium": 0.36,
+    "settled_claim": 0.0,
+    "unsettled_claim": 0.0,
+    "cumulative_loss_ratio": 0.0
+  },
+  {
+    "date": "2025-05-05",
+    "maturity_premium": 0.4,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.5202
+  },
+  {
+    "date": "2025-05-06",
+    "maturity_premium": 0.49,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.4251
+  },
+  {
+    "date": "2025-05-09",
+    "maturity_premium": 0.62,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.3334
+  },
+  {
+    "date": "2025-05-10",
+    "maturity_premium": 0.69,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.3
+  },
+  {
+    "date": "2025-05-11",
+    "maturity_premium": 0.74,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.2828
+  },
+  {
+    "date": "2025-05-12",
+    "maturity_premium": 0.81,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.2565
+  },
+  {
+    "date": "2025-05-13",
+    "maturity_premium": 1.02,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.2047
+  },
+  {
+    "date": "2025-05-15",
+    "maturity_premium": 1.16,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1792
+  },
+  {
+    "date": "2025-05-16",
+    "maturity_premium": 1.34,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1552
+  },
+  {
+    "date": "2025-05-17",
+    "maturity_premium": 1.36,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1533
+  },
+  {
+    "date": "2025-05-18",
+    "maturity_premium": 1.37,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-05-19",
+    "maturity_premium": 1.4,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1482
+  },
+  {
+    "date": "2025-05-20",
+    "maturity_premium": 1.43,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1459
+  },
+  {
+    "date": "2025-05-21",
+    "maturity_premium": 1.5,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1387
+  },
+  {
+    "date": "2025-05-22",
+    "maturity_premium": 1.52,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1369
+  },
+  {
+    "date": "2025-05-23",
+    "maturity_premium": 1.6,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1299
+  },
+  {
+    "date": "2025-05-24",
+    "maturity_premium": 1.7,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1223
+  },
+  {
+    "date": "2025-05-26",
+    "maturity_premium": 1.77,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1177
+  },
+  {
+    "date": "2025-05-27",
+    "maturity_premium": 1.83,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1139
+  },
+  {
+    "date": "2025-05-28",
+    "maturity_premium": 1.86,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1117
+  },
+  {
+    "date": "2025-05-29",
+    "maturity_premium": 1.87,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1111
+  },
+  {
+    "date": "2025-05-30",
+    "maturity_premium": 1.92,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1082
+  },
+  {
+    "date": "2025-05-31",
+    "maturity_premium": 1.95,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1069
+  },
+  {
+    "date": "2025-06-02",
+    "maturity_premium": 1.97,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1056
+  },
+  {
+    "date": "2025-06-03",
+    "maturity_premium": 2.1,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.099
+  },
+  {
+    "date": "2025-06-04",
+    "maturity_premium": 2.02,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.103
+  },
+  {
+    "date": "2025-06-05",
+    "maturity_premium": 2.05,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1014
+  },
+  {
+    "date": "2025-06-06",
+    "maturity_premium": 2.08,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0999
+  },
+  {
+    "date": "2025-06-07",
+    "maturity_premium": 2.13,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0976
+  },
+  {
+    "date": "2025-06-08",
+    "maturity_premium": 2.15,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0968
+  },
+  {
+    "date": "2025-06-09",
+    "maturity_premium": 2.16,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0963
+  },
+  {
+    "date": "2025-06-12",
+    "maturity_premium": 2.17,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0959
+  },
+  {
+    "date": "2025-06-16",
+    "maturity_premium": 2.19,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.095
+  },
+  {
+    "date": "2025-06-17",
+    "maturity_premium": 2.19,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.095
+  },
+  {
+    "date": "2025-06-18",
+    "maturity_premium": 2.21,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0941
+  },
+  {
+    "date": "2025-06-19",
+    "maturity_premium": 2.23,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0933
+  },
+  {
+    "date": "2025-06-20",
+    "maturity_premium": 2.25,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0925
+  },
+  {
+    "date": "2025-06-23",
+    "maturity_premium": 2.26,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.092
+  },
+  {
+    "date": "2025-06-24",
+    "maturity_premium": 2.27,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0917
+  },
+  {
+    "date": "2025-06-25",
+    "maturity_premium": 2.27,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0917
+  },
+  {
+    "date": "2025-06-26",
+    "maturity_premium": 2.29,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.091
+  },
+  {
+    "date": "2025-06-27",
+    "maturity_premium": 2.35,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0884
+  },
+  {
+    "date": "2025-06-28",
+    "maturity_premium": 2.39,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0872
+  },
+  {
+    "date": "2025-06-30",
+    "maturity_premium": 2.44,
+    "settled_claim": 0.2,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.0852
+  },
+  {
+    "date": "2025-07-01",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-02",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-03",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-04",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-05",
+    "maturity_premium": 2.57,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1512
+  },
+  {
+    "date": "2025-07-06",
+    "maturity_premium": 2.61,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1486
+  },
+  {
+    "date": "2025-07-07",
+    "maturity_premium": 2.52,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1539
+  },
+  {
+    "date": "2025-07-08",
+    "maturity_premium": 2.53,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.153
+  },
+  {
+    "date": "2025-07-09",
+    "maturity_premium": 2.54,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1528
+  },
+  {
+    "date": "2025-07-11",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-12",
+    "maturity_premium": 2.56,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1517
+  },
+  {
+    "date": "2025-07-14",
+    "maturity_premium": 2.57,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.151
+  },
+  {
+    "date": "2025-07-15",
+    "maturity_premium": 2.58,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1504
+  },
+  {
+    "date": "2025-07-16",
+    "maturity_premium": 2.58,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1504
+  },
+  {
+    "date": "2025-07-17",
+    "maturity_premium": 2.59,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1499
+  },
+  {
+    "date": "2025-07-18",
+    "maturity_premium": 2.48,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1565
+  },
+  {
+    "date": "2025-07-19",
+    "maturity_premium": 2.49,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1556
+  },
+  {
+    "date": "2025-07-20",
+    "maturity_premium": 2.49,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1556
+  },
+  {
+    "date": "2025-07-21",
+    "maturity_premium": 2.5,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1552
+  },
+  {
+    "date": "2025-07-22",
+    "maturity_premium": 2.5,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1552
+  },
+  {
+    "date": "2025-07-24",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1548
+  },
+  {
+    "date": "2025-07-25",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  },
+  {
+    "date": "2025-07-26",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  },
+  {
+    "date": "2025-07-28",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  },
+  {
+    "date": "2025-07-29",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  },
+  {
+    "date": "2025-07-30",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  },
+  {
+    "date": "2025-07-31",
+    "maturity_premium": 2.51,
+    "settled_claim": 0.37,
+    "unsettled_claim": 0.01,
+    "cumulative_loss_ratio": 0.1546
+  }
+]
